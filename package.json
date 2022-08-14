@@ -7,5 +7,20 @@
     "type": "git",
     "url": "https://github.com/jaid/node-gyp-test"
   },
-  "homepage": "https://github.com/Jaid/node-gyp-test"
+  "homepage": "https://github.com/Jaid/node-gyp-test",
+  "devDependencies": {
+    "@jitsi/robotjs": "^0.6.10",
+    "@xingrz/cppzst": "^2.1.0-alpha.8",
+    "bufferutil": "^4.0.6",
+    "canvas": "^2.9.3",
+    "fast-uuidv4": "^1.4.2",
+    "gl": "^5.0.3",
+    "microtime": "^3.1.1",
+    "node-sass": "^7.0.1",
+    "sharp": "^0.30.7",
+    "sodium-native": "^3.4.1",
+    "sqlite3": "^5.0.11",
+    "utf-8-validate": "^5.0.9",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.10.0"
+  }
 }
