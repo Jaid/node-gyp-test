@@ -1,0 +1,11 @@
+{
+  "name": "node-gyp-test",
+  "version": "1.0.0",
+  "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/node-gyp-test"
+  },
+  "homepage": "https://github.com/Jaid/node-gyp-test"
+}
