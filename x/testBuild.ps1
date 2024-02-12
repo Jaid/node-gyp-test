@@ -1,2 +1,2 @@
-Set-Location node_modules\fast-uuidv4
+Set-Location node_modules\deasync
 npm run install
