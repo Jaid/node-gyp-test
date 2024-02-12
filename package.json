@@ -9,18 +9,18 @@
   },
   "homepage": "https://github.com/Jaid/node-gyp-test",
   "devDependencies": {
-    "@jitsi/robotjs": "^0.6.10",
+    "@jitsi/robotjs": "^0.6.13",
     "@xingrz/cppzst": "^2.1.0-alpha.8",
-    "bufferutil": "^4.0.6",
-    "canvas": "^2.9.3",
-    "fast-uuidv4": "^1.4.2",
-    "gl": "^5.0.3",
+    "bufferutil": "^4.0.8",
+    "canvas": "^2.11.2",
+    "fast-uuidv4": "^1.4.19",
+    "gl": "^6.0.2",
     "microtime": "^3.1.1",
-    "sharp": "^0.30.7",
-    "sodium-native": "^3.4.1",
-    "sqlite3": "^5.0.11",
-    "utf-8-validate": "^5.0.9",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.10.0"
+    "sharp": "^0.33.2",
+    "sodium-native": "^4.0.8",
+    "sqlite3": "^5.1.7",
+    "utf-8-validate": "^6.0.3",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.41.0"
   },
   "scripts": {
     "test": "pwsh x/testBuild.ps1"
